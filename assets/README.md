@@ -4,6 +4,6 @@ Crear una web que muestre una bandera con tres bloques amarillos y el medio negr
 
 
 ![Modelo_Bandera_parte2](assets/docs/Modelo_parte2.png)
- ![recursos](assets/docs/Modelo_parte2.png) 
+ ![recursos] (assets/docs/Modelo_parte2.png) 
 
 #### Herramientas Tecnológicos : CSS3/HTML5
