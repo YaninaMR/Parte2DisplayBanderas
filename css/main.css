@@ -1,0 +1,24 @@
+*{
+box-sizing: border-box;
+}
+
+body{
+  background:
+}
+
+div{
+  width: 300px;
+  margin: 15px;
+  height: 200px;
+  padding: 10px;
+  display: block; /*solo ocupa el espacio que necesita su contenido*/
+}
+.yellow{
+ background-color: #ffc107; 
+ 
+}
+
+.black{
+ background-color: #000; 
+ color: #fff;
+}
